@@ -20,9 +20,9 @@
 ## 🔘 Access the Project
 
 ### 📊 Dataset  
-[![Download Dataset](https://img.shields.io/badge/DOWNLOAD-DATASET-lightblue?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/amar4542/Future_DS_03/tree/main/Task%203%20Dataset)
+[![Download Dataset](https://img.shields.io/badge/DOWNLOAD-DATASET-navyblue?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/amar4542/Future_DS_03/tree/main/Task%203%20Dataset)
 
 ### 📈 Dashboard  
-[![Download Dashboard](https://img.shields.io/badge/DOWNLOAD-DASHBOARD-red?style=for-the-badge&logo=tableau&logoColor=white)](https://github.com/amar4542/Future_DS_02/raw/main/Future_DS_02.pbit)
+[![Download Dashboard](https://img.shields.io/badge/DOWNLOAD-DASHBOARD-grey?style=for-the-badge&logo=tableau&logoColor=white)](https://github.com/amar4542/Future_DS_03/blob/main/Student%20Feedback.ipynb)
 
 ---
