@@ -1,6 +1,4 @@
-## Project Title : Student Event Feedback
-
-## 🎯 Description : 
+# Student Event Feedback
 - This task Analyzes the students event feedback to uncover satisfaction trends and
  suggest improvements using survey data.
 
